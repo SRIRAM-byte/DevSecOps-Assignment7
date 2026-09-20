@@ -1,1 +1,3 @@
 Initial Git Practice - Sriram
+
+Pull vs Fetch
